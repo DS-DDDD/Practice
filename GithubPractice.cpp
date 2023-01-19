@@ -10,12 +10,15 @@ using namespace std;
 
 
 int main()
-{
+{ 
     string fish;
     cout << "insert a word to post to the screen" << endl;
     cin >> fish;
+     
+    cout << "\n" << fish << endl; 
+    cout << "n";
 
-    cout << "\n" << fish << endl;
 }
 
 
+ 
